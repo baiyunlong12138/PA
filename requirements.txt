@@ -1,3 +1,6 @@
 jupyter-book
 matplotlib
 numpy
+RDkit
+pandas
+jinja2
