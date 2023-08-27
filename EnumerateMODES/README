@@ -1,0 +1,9 @@
+This software is part of a CES undergraduate group project at RWTH Aachen University and is available to everyone under the MIT Open Source License.
+
+The software is designed to realize the generation of chemical enumeration library through the method of reaction pattern. The software consists of two parts.
+
+The python part uses the related functions of RDkit. After installing the required libraries, you can run directly.
+
+The Knime part uses the Knime software. This software needs to be downloaded in advance. It should be noted that the path of the node needs to be manually changed to the local path before running the file.
+
+Any questions please contact: shi.yao.ju@rwth-aachen.de
