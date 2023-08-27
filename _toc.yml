@@ -1,0 +1,28 @@
+# Table of contents
+# Learn more at https://jupyterbook.org/customize/toc.html
+
+format: jb-book
+root: intro
+parts:
+- caption: Introduction
+  chapters:
+    - file: markdown
+- caption: Pre-knowledge
+  chapters:
+    - file: pre-knowledge/language
+      sections:
+      - file: pre-knowledge/SMILES/markdown
+      - file: pre-knowledge/SMARTS/markdown
+      - file: pre-knowledge/SMIRKS/markdown
+    - file: pre-knowledge/List
+      sections:
+      - file: pre-knowledge/RDkit
+      - file: pre-knowledge/knime
+- caption: Manual of generator
+  chapters:
+      - file: manual/manual.md
+- caption: Live Code
+  chapters:
+    - file: code/Final.ipynb
+  
+

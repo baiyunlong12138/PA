@@ -1,0 +1,1 @@
+# Manual of the generator
