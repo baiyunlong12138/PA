@@ -2,9 +2,9 @@
 # Learn more at https://jupyterbook.org/customize/config.html
 
 title: Projek Arbeit
-author: Team
+author: Shiyao Ju, Yunlong Bai
 logo: logo.png
-copyright: "2023"
+copyright: "MODES RWTH 2023"
 
 # Force re-execution of notebooks on each build.
 # See https://jupyterbook.org/content/execute.html

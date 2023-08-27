@@ -45,10 +45,4 @@ RDKit finds applications in several domains:
 **5. Install RDkit**
 Simply use command `pip install RDkit` before using the generator, or use `conda install -c conda-forge rdkit` if you are using conda envirnment.
 
-# Brief Introduction of the necessary functions: 
 
-1. Chem.MolFromSmiles()
-2. AllChem.ReactionFromSmarts()
-3. Chem.Draw.ReactionToImage()
-4. rxn_1.RunReactants()
-5. Chem.Draw.MolToImage()
