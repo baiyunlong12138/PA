@@ -4,6 +4,6 @@ The software is designed to realize the generation of chemical enumeration libra
 
 The python part uses the related functions of RDkit. After installing the required libraries, you can run directly.
 
-The Knime part uses the Knime software. This software needs to be downloaded in advance. It should be noted that the path of the last node needs to be manually changed to the local path before running the file.
+The Knime part uses the Knime software. This software needs to be downloaded in advance. It should be noted that the path of nodes needs to be manually changed to the local path before running the file.
 
 Any questions please contact: shi.yao.ju@rwth-aachen.de
