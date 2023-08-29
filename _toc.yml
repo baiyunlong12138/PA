@@ -23,6 +23,6 @@ parts:
       - file: manual/manual.md
 - caption: Live Code
   chapters:
-    - file: code/EnumerateMODES/python/EnumerateMODES.ipynb
+    - file: EnumerateMODES/Python/EnumerateMODES.ipynb
   
 
