@@ -1,4 +1,4 @@
-# A Language for Describing Molecular Patterns
+# SMARTS: A Language for Describing Molecular Patterns
 <span style="font-size:18px;">
 SMARTS is a language that are used to specify substructures, it is an extension of SMILES, which means they share the same syntax.
 One can use SMARTS to search a specific substructure in a database. In fact, almost all SMARTS are valid SMARTS targets.

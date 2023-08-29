@@ -1,4 +1,4 @@
-# A Simplified Chemical Language
+# SMILES: A Simplified Chemical Language
 SMILES, is the abbreviation from "Simplified Molecular-Input Line-Entry System". It is a line notation for describing the strucuture of chemical species using short ASCII strings, which can be converted back into 2D or #d models.
 
 

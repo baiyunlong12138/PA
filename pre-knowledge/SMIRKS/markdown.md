@@ -1,4 +1,4 @@
-# A Reaction Transform Language
+# SMIRKS: A Reaction Transform Language
 <span style="font-size:18px;">
 The key part of the reaction is the atom- and bond-change list, which is also the basic idea of generic reation.
 </span>
